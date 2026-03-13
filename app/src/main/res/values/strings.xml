@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="app_logo_desc">App logo</string>
+    <string name="app_name_text">ChitChat</string>
+    <string name="from_label">From</string>
+    <string name="team_label">Team 05</string>
+</resources>
